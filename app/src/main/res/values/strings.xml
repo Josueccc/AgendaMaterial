@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgendaMaterial</string>
+    <string name="btn_guardar">Agregar contacto</string>\
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="lb_titulo">Datos del contacto</string>
+</resources>
